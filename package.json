@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/marckdx/videomaker/issues"
   },
-  "homepage": "https://github.com/marckdx/videomaker#readme"
+  "homepage": "https://github.com/marckdx/videomaker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
